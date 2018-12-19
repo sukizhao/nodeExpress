@@ -12,3 +12,5 @@ $ npm install multer --save
 -- express@4.16.4
 
 node express_demo.js 就是执行js文件
+http://localhost:8081
+http://localhost:8081/list/user
